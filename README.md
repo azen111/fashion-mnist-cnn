@@ -105,4 +105,5 @@ The Fashion-MNIST dataset is loaded directly through TensorFlow/Keras.
 
 ## Project Context
 
-Academic Machine Learning and Deep Learning implementation developed alongside undergraduate coursework.
+Developed alongside my undergraduate Machine Learning and Deep Learning coursework to gain practical experience with CNNs.  
+This project helped me apply deep learning concepts to an image-classification task.
